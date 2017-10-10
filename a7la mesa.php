@@ -11,6 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
+        echo "e7na gamdeen gedan";
         echo "wdf";
         ?>
     </body>
