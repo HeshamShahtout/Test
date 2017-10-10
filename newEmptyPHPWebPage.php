@@ -11,6 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
+// hey there 
         echo "5aleena mo7trameen";
         ?>
     </body>
